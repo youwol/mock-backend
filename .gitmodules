@@ -1,0 +1,4 @@
+[submodule "py-youwol"]
+	path = py-youwol
+	url = https://github.com/youwol/py-youwol.git
+    branch = master
